@@ -1,4 +1,4 @@
-* This is a Full Stack Application deployed on Heroku https://vast-headland-47194.herokuapp…
+* This is a Full Stack Application deployed on Heroku https://vast-headland-47194.herokuapp.com/
 
  ![](mainpage.png)
  
